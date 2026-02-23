@@ -14,5 +14,3 @@ Hey There, I am Pushpit Upadhyay, a Frontend Web Developer
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mystic-coder1&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
