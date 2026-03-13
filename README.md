@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey There, I am Pushpit Upadhyay, a Frontend Web Developer
+Hey There, I am Pushpit Upadhyay.
 
 
 ## 🌐 Socials:
