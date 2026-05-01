@@ -11,6 +11,7 @@
 <img src="your-gif-link.gif" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
       <h4>Hey, I'm Pushpit Upadhyay 👋</h4>
       <p>I am a Full Stack Java Developer with a strong interest in building scalable and efficient systems. I enjoy working across the stack, from designing backend architectures using Spring Boot to creating interactive user interfaces with React.</p>
+      
 ## 🛠️ Current Focus
 
 🔹 Designing scalable backend systems with Spring Boot &nbsp;&nbsp; ◆ &nbsp;&nbsp; 
@@ -36,7 +37,7 @@
 
 | Platform | Profile |
 |----------|---------------|
-| ![Leetcode](https://img.shields.io/badge/Leetcode-%230f1d26.svg?style=for-the-badge&logo=leetcode&logoColor=yellow) | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" width="30"/>](https://www.leetcode.com/u/mystic14) |
+| [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pushpit_upadhyay) |
 | ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30"/>](https://www.linkedin.com/in/pushpit-upadhyay-586a70320/) |
 | ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | [<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30"/>](https://github.com/mystic-coder1) |
 
