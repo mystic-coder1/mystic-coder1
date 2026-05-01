@@ -1,16 +1,53 @@
-# 💫 About Me:
-Hey There, I am Pushpit Upadhyay.
+# ![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=FFCC00&center=true&vCenter=true&width=550&lines=Building+Scalable+Systems+%7C+Full+Stack+Java+Dev)
 
+<div style="display: flex; flex-wrap: wrap; padding: 20px;">
+  <img width="100%" height="auto" src="star-wars-gif-1.gif" alt="Profile Banner" style="margin-left: 20px; margin-bottom: 10px; flex: 1;">
+  <div style="flex: 1; min-width: 300px; padding-right: 20px;">
+      <h4>Hey, I'm Pushpit Upadhyay 👋</h4>
+      <p>I am a Full Stack Java Developer with a strong interest in building scalable and efficient systems. I enjoy working across the stack, from designing backend architectures using Spring Boot to creating interactive user interfaces with React.</p>
+      <p>I focus on writing clean, maintainable code and continuously improving my problem-solving skills through platforms like LeetCode.</p>
+      <p>I am always curious about system design, cloud technologies, and real-world applications that can scale effectively.</p>
+  </div>
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/pushpit-upadhyay-586a70320) 
+<br>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mystic-coder1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mystic-coder1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mystic-coder1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Profiles
+
+| Platform | Profile |
+|----------|---------------|
+| ![Leetcode](https://img.shields.io/badge/Leetcode-%230f1d26.svg?style=for-the-badge&logo=leetcode&logoColor=yellow) | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" width="30"/>](https://www.leetcode.com/u/mystic14) |
+| ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30"/>](https://www.linkedin.com/in/pushpit-upadhyay-586a70320/) |
+| ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | [<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30"/>](https://github.com/mystic-coder1) |
+
+<br>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mystic-coder1&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🛠 Skills
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,js,react,spring,mysql,mongodb,gcp,git)](https://skillicons.dev)
+
+- **Languages:** C++, Java, JavaScript  
+- **Frontend:** React  
+- **Backend:** Spring Boot  
+- **Databases:** MySQL, MongoDB  
+- **Cloud & Tools:** Google Cloud, Apache Tomcat, Git  
+
+<br>
+
+---
+
+## GitHub Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=mystic-coder1&label=Profile%20views&color=0e75b6&style=for-the-badge)
+
+<br>
+
+![Pushpit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mystic-coder1&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mystic-coder1&layout=compact&theme=radical)
+
+---
+
+![](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
