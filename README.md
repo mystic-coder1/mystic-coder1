@@ -1,8 +1,14 @@
 # ![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=FFCC00&center=true&vCenter=true&width=550&lines=Building+Scalable+Systems+%7C+Full+Stack+Java+Dev)
 
-<div style="display: flex; flex-wrap: wrap; padding: 20px;">
-  <img width="100%" height="auto" src="star-wars-gif-1.gif" alt="Profile Banner" style="margin-left: 20px; margin-bottom: 10px; flex: 1;">
-  <div style="flex: 1; min-width: 300px; padding-right: 20px;">
+---
+
+<!-- 🔥 MAIN BANNER -->
+<img src="star-wars-gif-1.gif" width="100%" style="margin-bottom: 20px;" />
+
+---
+
+<!-- 🔥 YOUR GIF (NEW ONE ABOVE INTRO) -->
+<img src="your-gif-link.gif" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
       <h4>Hey, I'm Pushpit Upadhyay 👋</h4>
       <p>I am a Full Stack Java Developer with a strong interest in building scalable and efficient systems. I enjoy working across the stack, from designing backend architectures using Spring Boot to creating interactive user interfaces with React.</p>
       <p>I focus on writing clean, maintainable code and continuously improving my problem-solving skills through platforms like LeetCode.</p>
