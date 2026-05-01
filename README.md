@@ -37,7 +37,7 @@
 
 | Platform | Profile |
 |----------|---------------|
-| [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pushpit_upadhyay) |
+| ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white) | [<img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30"/>](https://www.instagram.com/pushpit_upadhyay) |
 | ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) | [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30"/>](https://www.linkedin.com/in/pushpit-upadhyay-586a70320/) |
 | ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | [<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30"/>](https://github.com/mystic-coder1) |
 
