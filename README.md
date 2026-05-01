@@ -11,8 +11,22 @@
 <img src="your-gif-link.gif" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
       <h4>Hey, I'm Pushpit Upadhyay 👋</h4>
       <p>I am a Full Stack Java Developer with a strong interest in building scalable and efficient systems. I enjoy working across the stack, from designing backend architectures using Spring Boot to creating interactive user interfaces with React.</p>
-      <p>I focus on writing clean, maintainable code and continuously improving my problem-solving skills through platforms like LeetCode.</p>
-      <p>I am always curious about system design, cloud technologies, and real-world applications that can scale effectively.</p>
+## 🛠️ Current Focus
+
+🔹 Designing scalable backend systems with Spring Boot &nbsp;&nbsp; ◆ &nbsp;&nbsp; 
+🔹 Building full-stack applications using React + Java &nbsp;&nbsp; ◆ &nbsp;&nbsp; 
+🔹 Working with MySQL and MongoDB &nbsp;&nbsp; ◆ &nbsp;&nbsp; 
+🔹 Exploring cloud deployment (GCP, Tomcat) &nbsp;&nbsp; ◆ &nbsp;&nbsp; 
+🔹 Strengthening DSA and problem-solving  
+
+<br>
+
+## 🚀 Interests
+
+🔹 System Design & Distributed Systems &nbsp;&nbsp; ◆ &nbsp;&nbsp; 
+🔹 Scalable Architecture &nbsp;&nbsp; ◆ &nbsp;&nbsp; 
+🔹 Backend Optimization &nbsp;&nbsp; ◆ &nbsp;&nbsp; 
+🔹 Cloud-based Applications
   </div>
 </div>
 
