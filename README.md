@@ -7,18 +7,19 @@
 
 ---
 
-<!-- 🔥 YOUR GIF (NEW ONE ABOVE INTRO) -->
+## 🚀 About Me
+
 <img src="your-gif-link.gif" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
       <h4>Hey, I'm Pushpit Upadhyay 👋</h4>
-      <p>I am a Full Stack Java Developer with a strong interest in building scalable and efficient systems. I enjoy working across the stack, from designing backend architectures using Spring Boot to creating interactive user interfaces with React.</p>
-      
-## 🛠️ Current Focus
 
-🔹 Designing scalable backend systems with Spring Boot &nbsp;&nbsp; ◆ &nbsp;&nbsp; 
-🔹 Building full-stack applications using React + Java &nbsp;&nbsp; ◆ &nbsp;&nbsp; 
-🔹 Working with MySQL and MongoDB &nbsp;&nbsp; ◆ &nbsp;&nbsp; 
-🔹 Exploring cloud deployment (GCP, Tomcat) &nbsp;&nbsp; ◆ &nbsp;&nbsp; 
-🔹 Strengthening DSA and problem-solving  
+🔹 Backend-focused developer passionate about building scalable and distributed systems  
+🔹 Specialized in **Java, Spring Boot, MySQL, Kafka, and Redis**  
+🔹 Strong understanding of **Microservices, REST APIs, Event-Driven Architecture, and System Design**  
+🔹 Full-stack capable with **React.js** for modern end-to-end application development  
+🔹 Exploring **Cloud Infrastructure, CI/CD, Docker, and Production-Grade Architectures**  
+🔹 Consistently solving DSA and competitive programming problems to sharpen problem-solving skills  
+
+---
 
 <br>
 
