@@ -8,7 +8,6 @@
 ---
 
 ## 🚀 About Me
-
 <img src="your-gif-link.gif" width="100%" style="border-radius: 10px; margin-bottom: 20px;" />
       <h4>Hey, I'm Pushpit Upadhyay 👋</h4>
 
@@ -20,20 +19,6 @@
 🔹 Consistently solving DSA and competitive programming problems to sharpen problem-solving skills  
 
 ---
-
-<br>
-
-## 🚀 Interests
-
-🔹 System Design & Distributed Systems &nbsp;&nbsp; ◆ &nbsp;&nbsp; 
-🔹 Scalable Architecture &nbsp;&nbsp; ◆ &nbsp;&nbsp; 
-🔹 Backend Optimization &nbsp;&nbsp; ◆ &nbsp;&nbsp; 
-🔹 Cloud-based Applications
-  </div>
-</div>
-
-<br>
-
 ## Profiles
 
 | Platform | Profile |
@@ -43,9 +28,7 @@
 | ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | [<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="30"/>](https://github.com/mystic-coder1) |
 
 <br>
-
 ---
-
 ## 🛠 Skills
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,js,react,spring,mysql,mongodb,gcp,git)](https://skillicons.dev)
@@ -61,7 +44,6 @@
 ---
 
 ## GitHub Stats
-
 ![Profile Views](https://komarev.com/ghpvc/?username=mystic-coder1&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
 <br>
