@@ -245,42 +245,6 @@ Java • Spring Boot • Kafka • Redis • Docker
 
 ---
 
-# 📈 Engineering Journey
-
-```text
-2024
-│
-├── Started Java Backend Development
-│
-├── Spring Boot
-│
-├── REST APIs
-│
-├── MySQL
-│
-└── Hibernate
-
-2025
-│
-├── Spring Security
-├── JWT Authentication
-├── Microservices
-├── Docker
-├── Jenkins
-├── Kafka
-├── Redis
-└── Distributed Systems
-
-2026 (Current)
-│
-├── Banking Ledger API
-├── Fraud Detection System
-├── System Design
-├── Cloud Computing
-└── Preparing for SDE Internships
-```
-
----
 
 # 💡 Areas of Interest
 
@@ -298,61 +262,6 @@ Java • Spring Boot • Kafka • Redis • Docker
 
 ---
 
-# 📚 Currently Exploring
-
-<table>
-
-<tr>
-
-<td width="33%">
-
-## ⚙ Backend
-
-- Spring Boot
-- Spring Security
-- Microservices
-- REST APIs
-
-</td>
-
-<td width="33%">
-
-## ☁ Cloud
-
-- Docker
-- Kubernetes
-- AWS
-- Jenkins
-
-</td>
-
-<td width="33%">
-
-## 📖 CS Fundamentals
-
-- Operating System
-- Computer Networks
-- DBMS
-- Low Level Design
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🎯 2026 Goals
-
-- ✅ 500+ LeetCode Problems
-- ✅ Expert in Spring Boot
-- ✅ Production-grade Microservices
-- ✅ Strong System Design Foundation
-- ✅ Open Source Contributions
-- ✅ SDE Internship (Backend)
-
----
 
 # 📊 GitHub Analytics
 
