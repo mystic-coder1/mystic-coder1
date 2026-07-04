@@ -160,52 +160,232 @@ public class PushpitUpadhyay {
 
 ---
 
-# 🏆 Engineering Highlights
+# 🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🏦 Banking Payment Ledger API
+
+Production-style banking ledger system built using a **dual microservice architecture** focused on transaction consistency and real-world backend practices.
+
+### ⚙️ Tech Stack
+
+Java • Spring Boot • MySQL • Docker • JWT • JPA/Hibernate • Jenkins
+
+### ✨ Highlights
+
+- Distributed transaction handling
+- Saga Pattern implementation
+- JWT Authentication
+- Dockerized services
+- CI/CD with Jenkins
+- Layered Architecture
+- RESTful APIs
+- Global Exception Handling
+
+### 🧠 Engineering Concepts
+
+```text
+✔ Microservices
+✔ Distributed Systems
+✔ ACID Transactions
+✔ Event-Driven Workflow
+✔ Clean Architecture
+```
+
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+## 🚨 Fraud Detection System
+
+Real-time fraud detection engine using asynchronous event processing to identify suspicious banking transactions.
+
+### ⚙️ Tech Stack
+
+Java • Spring Boot • Kafka • Redis • Docker
+
+### ✨ Highlights
+
+- Kafka Producer & Consumer
+- Redis Velocity Tracking
+- Event Streaming
+- Idempotent Consumers
+- High Throughput Processing
+- Distributed Cache
+- Real-time Alerts
+
+### 🧠 Engineering Concepts
+
+```text
+✔ Kafka Messaging
+✔ Redis Caching
+✔ Event Driven Architecture
+✔ Horizontal Scalability
+✔ Low Latency Processing
+```
+
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📈 Engineering Journey
+
+```text
+2024
+│
+├── Started Java Backend Development
+│
+├── Spring Boot
+│
+├── REST APIs
+│
+├── MySQL
+│
+└── Hibernate
+
+2025
+│
+├── Spring Security
+├── JWT Authentication
+├── Microservices
+├── Docker
+├── Jenkins
+├── Kafka
+├── Redis
+└── Distributed Systems
+
+2026 (Current)
+│
+├── Banking Ledger API
+├── Fraud Detection System
+├── System Design
+├── Cloud Computing
+└── Preparing for SDE Internships
+```
+
+---
+
+# 💡 Areas of Interest
 
 <div align="center">
 
-| Backend | Architecture | DevOps |
-|:--------:|:------------:|:-------:|
-| REST APIs | Microservices | Docker |
-| Spring Security | Saga Pattern | Jenkins |
-| JPA/Hibernate | Kafka | GitHub Actions |
-| JWT | Redis | CI/CD |
-| Exception Handling | Distributed Systems | AWS |
+| Backend | Distributed Systems | Problem Solving |
+|:-------:|:-------------------:|:---------------:|
+| Spring Boot | Kafka | LeetCode |
+| REST APIs | Redis | Data Structures |
+| Spring Security | Saga Pattern | Algorithms |
+| JPA/Hibernate | Event Streaming | Competitive Programming |
+| Clean Architecture | High Availability | Interview Preparation |
 
 </div>
 
 ---
 
-# 📌 Currently
+# 📚 Currently Exploring
 
-```yaml
-learning:
+<table>
 
-  - Advanced System Design
+<tr>
 
-  - Distributed Transactions
+<td width="33%">
 
-  - Docker & Kubernetes
+## ⚙ Backend
 
-  - Cloud Deployment (AWS)
+- Spring Boot
+- Spring Security
+- Microservices
+- REST APIs
 
-building:
+</td>
 
-  - Banking Payment Ledger API
+<td width="33%">
 
-  - Fraud Detection System
+## ☁ Cloud
 
-preparing:
+- Docker
+- Kubernetes
+- AWS
+- Jenkins
 
-  - DSA
+</td>
 
-  - Low Level Design
+<td width="33%">
 
-  - Core CS Subjects
+## 📖 CS Fundamentals
 
-goal:
+- Operating System
+- Computer Networks
+- DBMS
+- Low Level Design
 
-  Backend Software Engineering Internship
-```
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ 500+ LeetCode Problems
+- ✅ Expert in Spring Boot
+- ✅ Production-grade Microservices
+- ✅ Strong System Design Foundation
+- ✅ Open Source Contributions
+- ✅ SDE Internship (Backend)
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mystic-coder1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170em" src="https://streak-stats.demolab.com?user=mystic-coder1&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mystic-coder1&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mystic-coder1&theme=tokyo-night&hide_border=true&radius=12&area=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/mystic-coder1/mystic-coder1/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
 
 ---
