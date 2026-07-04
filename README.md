@@ -19,11 +19,6 @@
 <a href="https://github.com/mystic-coder1">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<a href="https://leetcode.com/u/mystic14/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
 </div>
 
 ---
@@ -246,23 +241,6 @@ Java • Spring Boot • Kafka • Redis • Docker
 ---
 
 
-# 💡 Areas of Interest
-
-<div align="center">
-
-| Backend | Distributed Systems | Problem Solving |
-|:-------:|:-------------------:|:---------------:|
-| Spring Boot | Kafka | LeetCode |
-| REST APIs | Redis | Data Structures |
-| Spring Security | Saga Pattern | Algorithms |
-| JPA/Hibernate | Event Streaming | Competitive Programming |
-| Clean Architecture | High Availability | Interview Preparation |
-
-</div>
-
----
-
-
 # 📊 GitHub Analytics
 
 <div align="center">
@@ -298,3 +276,49 @@ Java • Spring Boot • Kafka • Redis • Docker
 </div>
 
 ---
+
+---
+
+<div align="center">
+
+# 🤝 Let's Build Something Meaningful
+
+I'm always interested in discussing **backend engineering, distributed systems, open-source collaboration, and software architecture**.
+
+Whether it's an internship opportunity, a project, or simply a technical discussion, feel free to reach out.
+
+<br>
+
+<a href="mailto:pushpitupadhyay1@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/pushpit-upadhyay-586a70320/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mystic-coder1">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/mystic14/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,25:312E81,55:4F46E5,80:7C3AED,100:A855F7&height=170&section=footer"/>
+
+### Thanks for stopping by 👋
+
+*"Great software isn't just written — it's carefully designed, continuously improved, and built to last."*
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Code+with+purpose.;Build+with+quality.;Scale+with+confidence."/>
+
+</div>
