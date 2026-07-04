@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F172A,30:312E81,70:6D28D9,100:A855F7&text=Pushpit%20Upadhyay&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Engineer%20•%20Java%20•%20Distributed%20Systems&descAlignY=56"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F172A,30:312E81,70:6D28D9,100:A855F7&text=Pushpit%20Upadhyay&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=42"/>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=800&color=A78BFA&center=true&vCenter=true&width=850&lines=Java+Backend+Developer;Spring+Boot+%7C+Kafka+%7C+Redis;Building+Scalable+Distributed+Systems;Always+Learning.+Always+Building."/>
