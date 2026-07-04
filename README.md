@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F172A,30:312E81,70:6D28D9,100:A855F7&text=Pushpit%20Upadhyay&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=42"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0F172A,30:312E81,70:6D28D9,100:A855F7&text=Pushpit%20Upadhyay&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=42"/>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=800&color=A78BFA&center=true&vCenter=true&width=850&lines=Java+Backend+Developer;Spring+Boot+%7C+Kafka+%7C+Redis;Building+Scalable+Distributed+Systems;Always+Learning.+Always+Building."/>
@@ -281,12 +281,6 @@ Java • Spring Boot • Kafka • Redis • Docker
 
 <div align="center">
 
-# 🤝 Let's Build Something Meaningful
-
-I'm always interested in discussing **backend engineering, distributed systems, open-source collaboration, and software architecture**.
-
-Whether it's an internship opportunity, a project, or simply a technical discussion, feel free to reach out.
-
 <br>
 
 <a href="mailto:pushpitupadhyay1@gmail.com">
@@ -313,9 +307,6 @@ Whether it's an internship opportunity, a project, or simply a technical discuss
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,25:312E81,55:4F46E5,80:7C3AED,100:A855F7&height=170&section=footer"/>
 
-### Thanks for stopping by 👋
-
-*"Great software isn't just written — it's carefully designed, continuously improved, and built to last."*
 
 <br>
 
