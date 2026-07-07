@@ -56,6 +56,7 @@ public class PushpitUpadhyay {
 
 }
 ```
+<!--
 
 ---
 
@@ -256,7 +257,7 @@ Java • Spring Boot • Kafka • Redis • Docker
 </div>
 
 ---
-
+-->
 # 📈 Contribution Graph
 
 <div align="center">
@@ -267,6 +268,7 @@ Java • Spring Boot • Kafka • Redis • Docker
 
 ---
 
+<!--
 # 🐍 Contribution Snake
 
 <div align="center">
@@ -276,7 +278,7 @@ Java • Spring Boot • Kafka • Redis • Docker
 </div>
 
 ---
-
+-->
 ---
 
 <div align="center">
